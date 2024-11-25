@@ -1,9 +1,9 @@
 import requests
 
 # Token (mapbox)
-access_token = ""  # Replace with your actual Mapbox token
+access_token = ""  
 
-# Function to get coordinates from location name
+# Get coordinates from location name
 def get_coordinates(location_name):
     geocode_url = f"https://api.mapbox.com/geocoding/v5/mapbox.places/{location_name}.json"
     params = {
@@ -23,7 +23,7 @@ def get_coordinates(location_name):
         print(f"Error: {response.status_code} - {response.text}")
         return None
 
-# Function to calculate distance between two coordinates
+# Calculate distance between two coordinates
 def calculate_distance(start_coords, end_coords):
     directions_url = f"https://api.mapbox.com/directions/v5/mapbox/driving/{start_coords[0]},{start_coords[1]};{end_coords[0]},{end_coords[1]}"
     params = {
@@ -78,14 +78,12 @@ if target_coords and all(location_coords):
 
 
 # Direct comparison 
-
-
 import requests
 
-# Replace with your Mapbox API token
-access_token = "sk.eyJ1IjoicHJhYW5hdiIsImEiOiJjbTN4NHF1a2YwMGt5MnZxMW5vZXlydGVoIn0.vLezPMPgm_0t6r77sAFytg"  # Replace with your actual Mapbox token
+# API token
+access_token = ""  
 
-# Function to get coordinates from location name
+# Coordinates from location name
 def get_coordinates(location_name):
     geocode_url = f"https://api.mapbox.com/geocoding/v5/mapbox.places/{location_name}.json"
     params = {
@@ -105,7 +103,7 @@ def get_coordinates(location_name):
         print(f"Error: {response.status_code} - {response.text}")
         return None
 
-# Function to calculate distance between two coordinates
+# Calculate distance between two coordinates
 def calculate_distance(start_coords, end_coords):
     directions_url = f"https://api.mapbox.com/directions/v5/mapbox/driving/{start_coords[0]},{start_coords[1]};{end_coords[0]},{end_coords[1]}"
     params = {
@@ -134,7 +132,7 @@ locations = [
 ]
 target_location = "Northeastern University"
 
-# Get coordinates for all locations
+# Coordinates for all locations
 location_coords = [get_coordinates(location) for location in locations]
 target_coords = get_coordinates(target_location)
 
