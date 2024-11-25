@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-# List of URLs and the base output folder
+# URLs and the base output folder
 urls = [
     "https://www.trulia.com/building/gardner-street-apartments-75-84-gardner-st-allston-ma-02134-2459183108",
     "https://www.trulia.com/building/dot-block-1211-dorchester-ave-dorchester-ma-02125-2562347969",
@@ -11,7 +11,7 @@ urls = [
 ]
 output_folder = r"C:\SEM_3\Big Data\poc_scrape"
 
-# Function to scrape data for a given URL
+# Scrape data for a given URL
 def scrape_url(url, base_output_folder):
     # Create a folder for this specific URL
     folder_name = url.split("/")[-1]
