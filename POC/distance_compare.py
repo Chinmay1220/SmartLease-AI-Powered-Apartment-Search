@@ -1,7 +1,7 @@
 # import requests
 
 # # Token (mapbox)
-# access_token = "sk.eyJ1IjoicHJhYW5hdiIsImEiOiJjbTN4NHF1a2YwMGt5MnZxMW5vZXlydGVoIn0.vLezPMPgm_0t6r77sAFytg"  # Replace with your actual Mapbox token
+# access_token = ""  # Replace with your actual Mapbox token
 
 # # Function to get coordinates from location name
 # def get_coordinates(location_name):
