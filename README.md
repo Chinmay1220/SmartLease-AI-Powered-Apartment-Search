@@ -12,6 +12,11 @@ Simplify the search process, making it user-friendly
 Reduce the time and effort required to find suitable apartment listings.
 Improve the accuracy of search results by better understanding user search.
 
+Architecture diagram:
+![image](https://github.com/user-attachments/assets/9db2ef0b-6d5a-4813-95a5-71d65d625b3c)
+
+
+
 We have added all the parameters in our code labs file
 
 code labs - https://codelabs-preview.appspot.com/?file_id=1WbWk5iBNWCyzCEaPw00eHkIJtrVBlYLllg1MIPXEyOk#0
