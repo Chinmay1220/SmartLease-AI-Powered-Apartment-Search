@@ -71,7 +71,7 @@ It addresses current challenges in apartment hunting, such as information overlo
 This solution will provide a more intuitive, efficient, and personalised search experience for users, allowing them to input requirements in a conversational manner.
 
 
-The potential impact of this project is significant:
+**The potential impact of this project is significant:**
 
 It could dramatically reduce the time and effort required for apartment hunting.
 
