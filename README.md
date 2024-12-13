@@ -32,33 +32,25 @@ Process is time consuming: Users spend excessive time manually filtering through
 
 **Opportunities:**
 
-Our AI-driven approach can reduce the time users spend searching for suitable apartments.
-
-By providing personalized and relevant search results, we can significantly improve user satisfaction.
+Our AI-driven approach can reduce the time users spend searching for suitable apartments and by providing personalized relevant search results, we can significantly improve user satisfaction.
 
 **Expected Benefits:**
 
 Simple User Experience:
 
-Provides a more intuitive and personalised apartment search process
-
-Reduce user frustration associated with complex filtering systems
+Provides a more intuitive and personalised apartment search process which reduce user frustration associated with complex filtering systems.
 
 Time Savings:
 
-Significantly reduce the time users spend searching for suitable apartments
-
-Allow users to make faster, more informed decisions about potential homes
+Significantly reduce the time users spend searching for suitable apartments and allow users to make faster, more informed decisions about potential homes.
 
 Operational Efficiency:
 
-Reduce manual data processing and update efforts through automated pipelines
-
-Minimise costs through efficient use of cloud resources
+Reduce manual data processing and update efforts through automated pipelines, Minimise costs through efficient use of cloud resources.
 
 Scalability:
 
-Easily expand to new geographic areas without significant infrastructure changes
+Easily expand to new geographic areas without significant infrastructure changes.
 
 **Conclusion:**
 
