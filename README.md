@@ -10,8 +10,10 @@ The primary goal of this project is to revolutionize the apartment search experi
 
 By doing so, our project seeks to:
 
-Simplify the search process, making it user-friendly
+Simplify the search process, making it user-friendly.
+
 Reduce the time and effort required to find suitable apartment listings.
+
 Improve the accuracy of search results by better understanding user search.
 
 Architecture diagram:
