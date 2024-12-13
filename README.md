@@ -102,3 +102,5 @@ EDA - https://drive.google.com/file/d/1fLH0NQxWxwlxqcsZs6HQDcH0Jiqp5ZXR/view?usp
 Video link - https://drive.google.com/drive/folders/1t6sw0Z7dJiCWSK7_lU0P9OR7Ezxq35D9
 
 Code labs (Project) - https://docs.google.com/document/d/1aAh6_0MzF5xaGBtIgNFzw3dDlv-WZpqnujJ00cdl4Zk/edit?tab=t.0
+
+Video Link (Project) - https://drive.google.com/drive/folders/1l1-qZyBeE2UXXa0xg1mcw5T5qKeudxqx?usp=drive_link
