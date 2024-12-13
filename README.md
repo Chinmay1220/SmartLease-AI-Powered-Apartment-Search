@@ -73,41 +73,7 @@ By addressing current pain points in apartment searching and leveraging cutting-
 
 **Directory structure:**
 
-
-smartlease/
-│
-├── .cache/
-├── .local/
-├── .ssh/
-├── .vscode-server/
-├── __pycache__/
-├── temp_data_store_json/
-│   ├── properties_with_distances.json
-│   └── semantic_search_output.json
-├── web_harvesting/
-│   ├── airflow/
-│   │   └── dags/
-│   │       └── web_harvesting_dag.py
-│   ├── airflow.cfg
-│   ├── config.toml
-│   ├── main.py
-│   ├── step1_scrape_list.py
-│   ├── step2_scrape_details.py
-│   ├── step3_scrape_images.py
-│   ├── __init__.py
-│   ├── backup_streamlit.py
-│   ├── control_execution.py
-│   ├── distance_agent.py
-│   ├── docker-compose.yml
-│   ├── Dockerfile
-│   ├── poetry.lock
-│   ├── pyproject.toml
-│   ├── screenshot.png
-│   ├── semantic_search.py
-│   ├── smartlease_fastapi.yml
-│   └── smartlease_streamlit_app.py
-t
-
+![image](https://github.com/user-attachments/assets/0b18e83a-25d5-4787-a8be-6e3e9f12bf05)
 
 
 **Contribution :**
