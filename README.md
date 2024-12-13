@@ -76,9 +76,7 @@ By addressing current pain points in apartment searching and leveraging cutting-
 smartlease/
 
 │
-
 ├── .cache/
-
 ├── .local/
 
 ├── .ssh/
