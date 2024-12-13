@@ -45,13 +45,6 @@ def calculate_distance(start_coords, end_coords):
         print(f"Error: {response.status_code} - {response.text}")
         return None
 
-# Input locations
-locations = [
-    "24 Oyster Bay Rd Boston, MA 02125",
-    "1211 Dorchester Ave Dorchester, MA 02125",
-    "1171 Boylston Street, MA 02215",
-    "1 Infinite Loop Cupertino, CA 95014"
-]
 target_location = "Northeastern University"
 
 # Get coordinates for all locations
