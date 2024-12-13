@@ -58,25 +58,7 @@ def scrape_url(url, base_output_folder):
                 else:
                     print(f"Skipped invalid URL: {img_url}")
 
-    # 2. Get apartment details
-    apartment_details = {}
-    try:
-        # Updated apartment name selector using the class
-        apartment_name_tag = soup.find("h1", class_="Text__TextBase-sc-13iydfs-0 EPOtA")
-        apartment_name = apartment_name_tag.text.strip() if apartment_name_tag else "N/A"
-
-        address = soup.find("div", {"data-testid": "home-details-summary-address"}).text.strip() if soup.find("div", {"data-testid": "home-details-summary-address"}) else "N/A"
-
-        apartment_details["Apartment Name"] = apartment_name
-        apartment_details["Address"] = address
-
-        # Save details to a text file
-        details_file = os.path.join(url_output_folder, "apartment_details.txt")
-        with open(details_file, "w") as f:
-            for key, value in apartment_details.items():
-                f.write(f"{key}: {value}\n")
-    except Exception as e:
-        print(f"Error fetching apartment details for {url}: {e}")
+   
 
     # 3. Get house description
     try:
