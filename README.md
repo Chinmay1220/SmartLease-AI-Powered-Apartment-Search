@@ -21,6 +21,81 @@ Improve the accuracy of search results by better understanding user search.
 
 
 
+**Current Challenges:**
+
+
+Overloading of Information: Traditional apartment search platforms overwhelm users with an abundance of listings, making it difficult to find truly suitable options.
+
+Personalization limitation: Existing platforms rely heavily on basic filters.
+
+Process is time consuming: Users spend excessive time manually filtering through irrelevant listings.
+
+**Opportunities:**
+
+Our AI-driven approach can reduce the time users spend searching for suitable apartments.
+
+By providing personalized and relevant search results, we can significantly improve user satisfaction.
+
+**Expected Benefits:**
+
+Simple User Experience:
+
+Provides a more intuitive and personalised apartment search process
+
+Reduce user frustration associated with complex filtering systems
+
+Time Savings:
+
+Significantly reduce the time users spend searching for suitable apartments
+
+Allow users to make faster, more informed decisions about potential homes
+
+Operational Efficiency:
+
+Reduce manual data processing and update efforts through automated pipelines
+
+Minimise costs through efficient use of cloud resources
+
+Scalability:
+
+Easily expand to new geographic areas without significant infrastructure changes
+
+**Conclusion:**
+
+In conclusion, our project proposes an innovative solution to revolutionise the apartment search process using advanced AI technologies. The key points of the proposal are:
+
+The project aims to develop an AI based apartment search platform that leverages Large Language Models and agentic architecture.
+
+It addresses current challenges in apartment hunting, such as information overload, limited personalization, and time-consuming processes.
+
+This solution will provide a more intuitive, efficient, and personalised search experience for users, allowing them to input requirements in a conversational manner.
+
+
+The potential impact of this project is significant:
+
+It could dramatically reduce the time and effort required for apartment hunting.
+
+The platform may provide more personalized apartment recommendations, leading to better decisions for renters.
+
+By addressing current pain points in apartment searching and leveraging cutting-edge AI technologies, this project has the potential to significantly improve the apartment hunting experience for users.
+
+
+
+**Contribution :**
+
+WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR 
+ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
+
+| Name            | Contribution %                       |
+|------------------|-------------------------------------|
+| Shubham Agarwal  | 33 %                             |
+| Chinmay Sawant   | 33 %                             |
+| Pranav Sonje     | 33 %                             |
+
+
+
+
+
 We have added all the parameters in our code labs file
 
 code labs - https://codelabs-preview.appspot.com/?file_id=1WbWk5iBNWCyzCEaPw00eHkIJtrVBlYLllg1MIPXEyOk#0
