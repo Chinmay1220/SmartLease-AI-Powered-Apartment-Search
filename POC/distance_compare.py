@@ -23,14 +23,7 @@ def get_coordinates(location_name):
         print(f"Error: {response.status_code} - {response.text}")
         return None
 
-# Calculate distance between two coordinates
-def calculate_distance(start_coords, end_coords):
-    directions_url = f"https://api.mapbox.com/directions/v5/mapbox/driving/{start_coords[0]},{start_coords[1]};{end_coords[0]},{end_coords[1]}"
-    params = {
-        "access_token": access_token,
-        "geometries": "geojson",
-        "overview": "full"
-    }
+
     response = requests.get(directions_url, params=params)
     if response.status_code == 200:
         data = response.json()
