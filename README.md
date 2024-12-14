@@ -93,6 +93,8 @@ ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
 We have added all the parameters in our code labs file
 
+application link - http://3.142.123.240:8501/
+
 code labs - https://codelabs-preview.appspot.com/?file_id=1WbWk5iBNWCyzCEaPw00eHkIJtrVBlYLllg1MIPXEyOk#0
 
 Document- https://docs.google.com/document/d/1WbWk5iBNWCyzCEaPw00eHkIJtrVBlYLllg1MIPXEyOk/edit?tab=t.0
