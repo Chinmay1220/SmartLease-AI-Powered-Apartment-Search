@@ -83,9 +83,9 @@ ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
 | Name            | Contribution %                       |
 |------------------|-------------------------------------|
-| Shubham Agarwal  | 40 %                             |
-| Chinmay Sawant   | 30 %                             |
-| Pranav Sonje     | 30 %                             |
+| Chinmay Sawant  | 35 %                             |
+| Shubham Agarwal   | 40 %                             |
+| Pranav Sonje     | 25 %                             |
 
 
 
