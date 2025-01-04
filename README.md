@@ -1,4 +1,4 @@
-# Final Project - SmartLease: AI-Powered Apartment Search
+# SmartLease: AI-Powered Apartment Search
 
  **Background:**
 
@@ -83,9 +83,9 @@ ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
 | Name            | Contribution %                       |
 |------------------|-------------------------------------|
-| Shubham Agarwal   | 33 %                             |
-| Chinmay Sawant  | 33 %                              | 
-| Pranav Sonje     | 33 %                             |
+| Shubham Agarwal   | 33.33 %                             |
+| Chinmay Sawant  | 33.33 %                              | 
+| Pranav Sonje     | 33.33 %                             |
 
 
 
